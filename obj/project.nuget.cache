@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHw6oPqtqBT3/Un87sJprEqMIapccBGjZFkr3G50Tnh0nFqb24YGOTYuHRkNagLqfKP/1D9+JDoI5iT4ffXCjg==",
+  "success": true,
+  "projectFilePath": "/home/therealcrispin/konwerter/konwerter.csproj",
+  "expectedPackageFiles": [
+    "/home/therealcrispin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

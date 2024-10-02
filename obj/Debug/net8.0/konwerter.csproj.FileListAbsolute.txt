@@ -1,0 +1,15 @@
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.GeneratedMSBuildEditorConfig.editorconfig
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.AssemblyInfoInputs.cache
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.AssemblyInfo.cs
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.csproj.CoreCompileInputs.cache
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.sourcelink.json
+/home/therealcrispin/konwerter/bin/Debug/net8.0/konwerter
+/home/therealcrispin/konwerter/bin/Debug/net8.0/konwerter.deps.json
+/home/therealcrispin/konwerter/bin/Debug/net8.0/konwerter.runtimeconfig.json
+/home/therealcrispin/konwerter/bin/Debug/net8.0/konwerter.dll
+/home/therealcrispin/konwerter/bin/Debug/net8.0/konwerter.pdb
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.dll
+/home/therealcrispin/konwerter/obj/Debug/net8.0/refint/konwerter.dll
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.pdb
+/home/therealcrispin/konwerter/obj/Debug/net8.0/konwerter.genruntimeconfig.cache
+/home/therealcrispin/konwerter/obj/Debug/net8.0/ref/konwerter.dll
