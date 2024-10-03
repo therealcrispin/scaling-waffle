@@ -1,7 +1,8 @@
 ```markdown
 # Konwerter Jednostek
 
-Prosty program do konwersji różnych jednostek długości, wagi i odległości. Pozwala na łatwe przeliczanie między powszechnie używanymi jednostkami, takimi jak:
+Prosty program do konwersji różnych jednostek długości, wagi i odległości.
+Pozwala na łatwe przeliczanie między powszechnie używanymi jednostkami, takimi jak:
 
 - Centymetry na stopy i cale oraz odwrotnie
 - Metry na jardy oraz odwrotnie
